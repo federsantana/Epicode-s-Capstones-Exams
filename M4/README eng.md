@@ -22,7 +22,7 @@ Analyzing XSS vulnerabilities in websites and learning to defend against script 
 
 -
 
-## 📄 Capstone Project 4: Exploiting Java RMI with Metasploit
+## 📄 Capstone Project 4: Exploiting Java_RMI with Metasploit
 
 This project is structured into:
 
