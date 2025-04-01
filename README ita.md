@@ -1,6 +1,6 @@
 Benvenuto nella sezione Esami Capstone di Epicode!
 
-📁 Questa repository è stata creata per presentare i miei progetti capstone, uno per ogni mese del corso da Cybersecurity Analyst con Epicode.
+📁 Questa repository è stata creata per presentarvi i progetti di fine modulo, "Capstone" in inglese e che rappresentano il traguardo formativo raggiunto, mese dopo mese, in questo corso di Cybersecurity Analyst con Epicode con relativa valutazione da parte del docente.
 
 🚀 Dal primo all’ultimo progetto sono cresciuto molto e continuo a lavorare ogni giorno per migliorarmi!
 
