@@ -4,7 +4,7 @@
 
 🚀 From the first to the last project, I've grown a lot, and I'm continuously working to improve!
 
-💡 Thank you for reading! Feel free to share my work if you find it helpful — I’d be delighted if it supports you in any way with your studies or career.
+💡 Thank you for reading! Feel free to share my work if you find it helpful, and don’t forget to mention me if you find it helpful — I’d be delighted if it supports you in any way with your studies or career.
 
 🤝 Let’s connect on LinkedIn: https://www.linkedin.com/in/federico-presti/ — I’d love to hear your thoughts!
 
