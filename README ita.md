@@ -5,7 +5,7 @@ Benvenuto nella sezione Esami Capstone di Epicode!
 🚀 Dal primo all’ultimo progetto sono cresciuto molto e continuo a lavorare ogni giorno per migliorarmi!
 
 💡 Grazie per la lettura!
-Sentiti libero di condividere il mio lavoro se lo trovi utile ricordandoti di menzionarmi — mi farebbe piacere sapere che ti è stato d’aiuto in ambito professionale o formativo.
+Sentiti libero di condividere il mio lavoro se lo trovi utile ricordandoti di menzionarmi — mi farebbe piacere sapere che ti è stato d’aiuto in ambito professionale e formativo.
 
 🤝 Connettiamoci su LinkedIn: https://www.linkedin.com/in/federico-presti/ — fammi sapere cosa ne pensi!
 
