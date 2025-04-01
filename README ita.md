@@ -7,8 +7,7 @@ Benvenuto nella sezione Esami Capstone di Epicode!
 💡 Grazie per la lettura!
 Sentiti libero di condividere il mio lavoro se lo trovi utile ricordandoti di menzionarmi — mi farebbe piacere sapere che ti è stato d’aiuto in ambito professionale e formativo.
 
-🤝 Connettiamoci su LinkedIn: https://www.linkedin.com/in/federico-presti/ — fammi sapere cosa ne pensi!
+🔗 Connettiti con me su [LinkedIn](https://www.linkedin.com/in/federico-presti/), fammi sapere cosa ne pensi!
 
-👨‍💻
-Federico Presti
-Cybersecurity Analyst
+👨‍💻 **Federico Presti**  
+*Cybersecurity Analyst in formazione*
