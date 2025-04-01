@@ -1,4 +1,4 @@
-Il documento "esercitazione finale Modulo 1 signor Presti Federico" è focalizzato sull'implementazione di una comunicazione efficace tra due macchine virtuali, una su Kali Linux e l'altra su Windows 10 Home, utilizzando un'architettura client-server. Durante l'esercitazione, è stato utilizzato il software Inetsim per simulare richieste web e il tool Wireshark per intercettare e analizzare il traffico di rete.
+  Il documento "esercitazione finale Modulo 1 signor Presti Federico" è focalizzato sull'implementazione di una comunicazione efficace tra due macchine virtuali, una su Kali Linux e l'altra su Windows 10 Home, utilizzando un'architettura client-server. Durante l'esercitazione, è stato utilizzato il software Inetsim per simulare richieste web e il tool Wireshark per intercettare e analizzare il traffico di rete.
 
 - L'attività si è concentrata su diverse fasi:
 
