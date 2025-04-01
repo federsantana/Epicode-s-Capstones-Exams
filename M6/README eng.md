@@ -89,3 +89,6 @@ This final project encapsulated our learning across the entire course, combining
 > 🚨 AI, Logs, and Team Coordination = Next-Gen Security Operations
 
 ---
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/federico-presti/)  
+👨‍💻 **Federico Presti**  
+*Cybersecurity Analyst in training*
