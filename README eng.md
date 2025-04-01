@@ -1,12 +1,27 @@
-👋 Welcome to my Epicode Capstones Exams section!
+# 🧠 Cybersecurity Capstone Collection – Federico Presti
 
-📁 This repository has been created to showcase my capstone projects for each month I spent in the Cybersecurity Analyst course at Epicode — each project includes the final score or evaluation provided by the instructor.
+📁 Welcome to my GitHub repository featuring the 6 capstone projects I completed during the **Cybersecurity Analyst course at Epicode**. Each project marks a crucial step in my journey, covering key areas of cybersecurity:
 
-🚀 From the first to the last project, I've grown a lot, and I'm continuously working to improve!
+| Module | Topic Area                                | Focus                                           |
+|--------|--------------------------------------------|-------------------------------------------------|
+| M1     | Linux & Networking                         | SysAdmin, bash, network layers                  |
+| M2     | Penetration Testing                        | Kali, Python/C automation, Web App attacks      |
+| M3     | Vulnerability Assessment                   | Nmap, Nessus, risk remediation                  |
+| M4     | Exploitation & Web Attacks                 | Metasploit, SQLi, XSS, brute-force              |
+| M5     | Threat Intelligence & Incident Response    | IOC analysis, DDoS, malware, Zero Trust         |
+| M6     | Splunk, AI & Malware                       | Log monitoring, AI-assisted forensics, teamwork |
 
-💡 Thank you for reading! Feel free to share my work if you find it helpful, and don’t forget to mention me if you find it helpful — I’d be delighted if it supports you in any way with your studies or career.
+🚀 **Highlights:**
+- Tools: Splunk, Kali, Nmap, Metasploit, Nessus, Hydra, SIEM, ChatGPT
+- Teamwork: Capstone 6 was developed collaboratively in a SOC-style simulation
+- Approach: Hands-on, business-aware, and incident-ready
 
-🤝 Let’s connect on [LinkedIn](https://www.linkedin.com/in/federico-presti/) — I’d love to hear your thoughts!
+📄 Each module includes: full project report (PDF), structured README and key learning outcomes.
 
-👨‍💻 **Federico Presti**  
-*Cybersecurity Analyst in training*
+---
+🔗 Let’s connect: [LinkedIn – Federico Presti](https://www.linkedin.com/in/federico-presti/)
+---
+📄 **Check out my scores given by Epicode and download my CV here:**  
+👉 [My Talent Profile](https://talent.epicode.com/talent/d1fb2c5c-f20d-42b7-a7e0-c5b9db3cd9ad)
+---
+👨‍💻 *Cybersecurity Analyst in training – ready to contribute to your SOC.*
