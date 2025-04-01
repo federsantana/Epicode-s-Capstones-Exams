@@ -9,4 +9,4 @@
 🤝 Let’s connect on [LinkedIn](https://www.linkedin.com/in/federico-presti/) — I’d love to hear your thoughts!
 
 👨‍💻 **Federico Presti**  
-*Cybersecurity Analyst*
+*Cybersecurity Analyst in training*
