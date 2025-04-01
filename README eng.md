@@ -6,8 +6,7 @@
 
 💡 Thank you for reading! Feel free to share my work if you find it helpful, and don’t forget to mention me if you find it helpful — I’d be delighted if it supports you in any way with your studies or career.
 
-🤝 Let’s connect on LinkedIn: https://www.linkedin.com/in/federico-presti/ — I’d love to hear your thoughts!
+🤝 Let’s connect on [LinkedIn](https://www.linkedin.com/in/federico-presti/) — I’d love to hear your thoughts!
 
-👨‍💻
-Federico Presti
-Cybersecurity Analyst
+👨‍💻 **Federico Presti**  
+*Cybersecurity Analyst*
